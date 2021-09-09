@@ -1,0 +1,26 @@
+.Alive,
+.unknown,
+.Dead {
+  height: 260px;
+  max-width: 200px;
+  padding: 10px;
+  border: 1px solid #464646;
+  margin: 10px;
+  background-color: #113f66;
+  color: #9cb4c4;
+  font-weight: bold;
+}
+
+.img_style {
+  height: 55%;
+  width: 85%;
+  object-fit: cover;
+}
+
+.Dead {
+  background-color: #701212;
+}
+
+.Alive {
+  background-color: #397639;
+}
